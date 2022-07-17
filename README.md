@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mrizwanazeez
-- 👀 interested in web development...
-- On learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# *Wel come to My Git* 
 
-<!---
-mrizwanazeez/mrizwanazeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 *Hi, I’m m-rizwan*
+
+## *Working at: Spinneys AbuDhabi LLC*
+=========================================
+## *Branch: Spinneys Mangrove Village*
+-------------------------------------------
+
+## *Interested in web development*
+
+*[x] press release*
+*[ ] website*
+*[ ] Contact the media*
+
+
+### *My Great Heading {Facebook-mrizwan.azz}*
+
+[me-facebook](https://www.facebook.com/mrizwan.azz-syntax#heading-ids)
